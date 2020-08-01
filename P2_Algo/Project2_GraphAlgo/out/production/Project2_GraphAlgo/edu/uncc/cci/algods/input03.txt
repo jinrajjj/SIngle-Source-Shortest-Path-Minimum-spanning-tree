@@ -1,0 +1,19 @@
+9 17 U
+A B 3
+A G 5
+A H 7
+B C 7
+B H 1
+C D 1
+C H 2
+C I 2
+D E 5
+D I 3
+E I 2
+E F 4
+F G 2
+F H 3
+F I 3
+G H 3
+H I 1
+H

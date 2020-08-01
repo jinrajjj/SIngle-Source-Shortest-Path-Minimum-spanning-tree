@@ -1,0 +1,17 @@
+9 15 D
+A B 2
+A E 10
+A G 45
+B C 3
+B F 25
+B H 45
+C D 4
+C I 45
+D E 5
+D H 39
+E F 6
+F G 5
+G H 4
+H I 3
+I A 2
+A
